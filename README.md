@@ -2,8 +2,8 @@
 
 Here we are given two datasets of an Ecommerce company.
 
-Orders Dataset contains all information realted to order like OrderID, State, Order Date etc.
-Details Dataset contains Sales data like OrderID, Amount, Quantity, Profit etc.
+1. Orders Dataset - This dataset contains all information realted to order like OrderID, State, Order Date etc.
+2. Details Dataset - This dataset contains Sales data like OrderID, Amount, Quantity, Profit etc.
 
 We utilize these two datasets to analyze the sales data and create an interactive dashboard using PowerBI.
 
