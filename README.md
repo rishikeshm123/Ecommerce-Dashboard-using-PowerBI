@@ -1,6 +1,6 @@
 # Ecommerce-Dashboard-using-PowerBI
 
-##Here we are given two datasets of an Ecommerce company.
+## Here we are given two datasets of an Ecommerce company.
 
 ## 1. Orders Dataset - This dataset contains all information realted to order like OrderID, State, Order Date etc.
 ## 2. Details Dataset - This dataset contains Sales data like OrderID, Amount, Quantity, Profit etc.
